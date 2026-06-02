@@ -1,0 +1,6 @@
+{
+  "name": "IGL HDD data",
+  "description": "Enterprise-grade system to inventory hard disks, map custom directories, partition layouts, and search globally utilizing Google Sheets API and Gemini API intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
